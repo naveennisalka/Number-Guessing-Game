@@ -1,6 +1,6 @@
 ﻿# Number-Guessing-Game
 
  
--HTML
--JavaScript
--Bootstrap
+	-HTML
+	-JavaScript
+	-Bootstrap
